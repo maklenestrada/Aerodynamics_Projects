@@ -1,6 +1,5 @@
 %% ASEN 3111 - Computational Assignment 1 - Main
 %Maklen A. Estrada 
-%Collaborated with: Ian Wong, Mathew Davis  
 %Septeber 18 2021
 clear all
 clc
