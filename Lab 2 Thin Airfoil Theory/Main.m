@@ -4,7 +4,6 @@
 % 
 %
 % Author: Maklen A. Estrada
-% Collaborators: Ian Wong, Mathew Davis
 % Date: October 9th, 2022
 clear all;clc;close all
 %% Problem 1
