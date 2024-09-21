@@ -3,7 +3,6 @@
 %functions
 %
 %Author: Maklen A. Estrada
-%Collaborators: Ian Wong
 %Date: November 6th, 2022
 
 close all
