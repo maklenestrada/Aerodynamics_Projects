@@ -3,7 +3,6 @@
 %sectional wave-drag coefficient and coefficient of lift
 %
 % Author: Maklen Estrada
-% Collaborators: Ian Wong
 % Date: December 4th, 2022
 clc
 clear all
